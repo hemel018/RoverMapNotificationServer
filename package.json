@@ -16,7 +16,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/hemel018/RoverMapNotificationServer.git"
+    "url": "git@github.com:hemel018/RoverMapNotificationServer.git"
   },
   "author": "Rana Asif Bin Hamid",
   "license": "ISC",
